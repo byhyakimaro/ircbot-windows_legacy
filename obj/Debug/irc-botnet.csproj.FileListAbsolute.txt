@@ -1,0 +1,14 @@
+C:\Users\paulo\Desktop\Usuario\MyProjects\irc-botnet\obj\Debug\irc-botnet.csprojAssemblyReference.cache
+C:\Users\paulo\Desktop\Usuario\MyProjects\irc-botnet\obj\Debug\irc-botnet.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Usuario\MyProjects\irc-botnet\bin\Debug\IRC_BOT.exe.config
+C:\Users\paulo\Desktop\Usuario\MyProjects\irc-botnet\bin\Debug\IRC_BOT.exe
+C:\Users\paulo\Desktop\Usuario\MyProjects\irc-botnet\bin\Debug\IRC_BOT.pdb
+C:\Users\paulo\Desktop\Usuario\MyProjects\irc-botnet\obj\Debug\IRC_BOT.exe
+C:\Users\paulo\Desktop\Usuario\MyProjects\irc-botnet\obj\Debug\IRC_BOT.pdb
+C:\Users\avara\Desktop\Usuario\MyProjects\C#\irc-botnet\bin\Debug\KSP_x64.exe.config
+C:\Users\avara\Desktop\Usuario\MyProjects\C#\irc-botnet\bin\Debug\KSP_x64.exe
+C:\Users\avara\Desktop\Usuario\MyProjects\C#\irc-botnet\bin\Debug\KSP_x64.pdb
+C:\Users\avara\Desktop\Usuario\MyProjects\C#\irc-botnet\obj\Debug\irc-botnet.csprojAssemblyReference.cache
+C:\Users\avara\Desktop\Usuario\MyProjects\C#\irc-botnet\obj\Debug\irc-botnet.csproj.CoreCompileInputs.cache
+C:\Users\avara\Desktop\Usuario\MyProjects\C#\irc-botnet\obj\Debug\KSP_x64.exe
+C:\Users\avara\Desktop\Usuario\MyProjects\C#\irc-botnet\obj\Debug\KSP_x64.pdb
